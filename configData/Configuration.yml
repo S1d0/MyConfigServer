@@ -4,7 +4,7 @@ spring:
 words: I,You,He,She,It
 --
 spring:
-  profiles: subject
+  profiles: lol
 words: Ha ha ha
 
 eureka:
