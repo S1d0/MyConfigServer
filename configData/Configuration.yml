@@ -3,4 +3,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
-words
+words: Hey, you, sitting, out, there
